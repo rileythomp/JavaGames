@@ -1,3 +1,3 @@
 # Pong
 
-A Pong game.
+A pong game 
